@@ -1,6 +1,6 @@
 ## Hey, I'm Oleg 👋
 
-I build small desktop tools that solve real problems — usually for myself first, then share them when they turn out useful.
+I build small apps that solve real problems — usually for myself first, then share them when they turn out useful.
 
 ### My projects
 
