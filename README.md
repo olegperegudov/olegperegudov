@@ -4,11 +4,30 @@ I build small desktop tools that solve real problems — usually for myself firs
 
 ### My projects
 
-🐸 **[Ribbit](https://github.com/olegperegudov/ribbit)** — Voice-to-text dictation for Windows. Hold a hotkey, speak, release — text appears in any app. Free, private, lightweight. No cloud, no accounts.
-<br/><sub>Tauri · Rust · Groq Whisper API</sub>
-
-🎬 **[Snatch](https://github.com/olegperegudov/snatch)** — Video stream downloader. Chrome extension + local daemon that catches HLS/DASH streams and saves them as mp4. One click, works in the background.
-<br/><sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://github.com/olegperegudov/ribbit">
+        <img src="https://raw.githubusercontent.com/olegperegudov/ribbit/main/src/frog.png" width="48" />
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/olegperegudov/ribbit">Ribbit</a></b> — Voice-to-text dictation for Windows. Hold a hotkey, speak, release — text appears in any app. Free, private, lightweight. No cloud, no accounts.<br/>
+      <sub>Tauri · Rust · Groq Whisper API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://github.com/olegperegudov/snatch">
+        <img src="https://raw.githubusercontent.com/olegperegudov/snatch/main/frog_master.png" width="48" />
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Video stream downloader. Chrome extension + local daemon that catches HLS/DASH streams and saves them as mp4. One click, works in the background.<br/>
+      <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
+    </td>
+  </tr>
+</table>
 
 ### Tech I work with
 
