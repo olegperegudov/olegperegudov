@@ -19,7 +19,7 @@ I build small apps that solve real problems — usually for myself first, then s
   <tr>
     <td align="center" width="80">
       <a href="https://github.com/olegperegudov/snatch">
-        <img src="https://raw.githubusercontent.com/olegperegudov/snatch/main/frog_master.png" width="48" />
+        <img src="https://raw.githubusercontent.com/olegperegudov/snatch/main/raccoon_master.png" width="48" />
       </a>
     </td>
     <td>
