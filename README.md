@@ -12,7 +12,7 @@ I build small apps that solve real problems — usually for myself first, then s
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/ribbit">Ribbit</a></b> — Voice-to-text dictation for Windows. Hold a hotkey, speak, release — text appears in any app. Free, private, lightweight. Uses Groq Whisper API (free tier, no credit card).<br/>
+      <b><a href="https://github.com/olegperegudov/ribbit">Ribbit</a></b> — Voice-to-text dictation for Windows — hold a hotkey, speak, release. Uses Groq Whisper API (free tier). Tauri 2 + Rust.<br/>
       <sub>Tauri · Rust · Groq Whisper API</sub>
     </td>
   </tr>
@@ -23,7 +23,7 @@ I build small apps that solve real problems — usually for myself first, then s
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Video stream downloader. Chrome extension + local daemon that catches HLS/DASH streams and saves them as mp4. One click, works in the background. No accounts, no cloud.<br/>
+      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Chrome extension + companion app for downloading video streams (HLS/DASH/MP4). One click to download. No accounts, no cloud. Tauri 2 + yt-dlp.<br/>
       <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
     </td>
   </tr>
