@@ -23,7 +23,7 @@ I build small apps that solve real problems — usually for myself first, then s
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Chrome extension + companion app for downloading video streams (HLS/DASH/MP4). One click to download. No accounts, no cloud. Tauri 2 + yt-dlp.<br/>
+      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Download any video from any website — one click. Chrome extension + tiny background app. Free, private, no accounts.<br/>
       <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
     </td>
   </tr>
