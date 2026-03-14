@@ -1,0 +1,12 @@
+[
+  {
+    "repo": "olegperegudov/ribbit",
+    "icon": "src/frog.png",
+    "tags": "Tauri · Rust · Groq Whisper API"
+  },
+  {
+    "repo": "olegperegudov/snatch",
+    "icon": "raccoon_master.png",
+    "tags": "Chrome Extension · Python · yt-dlp · FastAPI"
+  }
+]
