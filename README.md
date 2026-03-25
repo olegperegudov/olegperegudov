@@ -12,7 +12,7 @@ I build small apps that solve real problems — usually for myself first, then s
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/ribbit">Ribbit</a></b> — Voice-to-text dictation for Windows — simple and free: hold a hotkey > speak > release > auto-paste.<br/>
+      <b><a href="https://github.com/olegperegudov/ribbit">Ribbit</a></b> — Voice-to-text dictation for Windows and macOS — simple and free: hold a hotkey > speak > release > auto-paste.<br/>
       <sub>Tauri · Rust · Groq Whisper API</sub>
     </td>
   </tr>
