@@ -23,7 +23,7 @@ I build small apps that solve real problems — usually for myself first, then s
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — Download any video from any website — one click. Chrome extension + tiny background app. Free, private, no accounts.<br/>
+      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — {"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}<br/>
       <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
     </td>
   </tr>
