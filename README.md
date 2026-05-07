@@ -18,13 +18,13 @@ I build small apps that solve real problems — usually for myself first, then s
   </tr>
   <tr>
     <td align="center" width="80">
-      <a href="https://github.com/olegperegudov/copypaster">
-        <img src="https://raw.githubusercontent.com/olegperegudov/copypaster/main/icon.png" width="48" />
+      <a href="https://github.com/olegperegudov/snatch">
+        <img src="https://raw.githubusercontent.com/olegperegudov/snatch/main/raccoon_master.png" width="48" />
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/copypaster">CopyPaster</a></b> — Win+V analogue for macOS — clipboard history of the last 20 items (text + images), Option+V opens a picker, Enter auto-pastes into the focused window.<br/>
-      <sub>Swift · SwiftUI · AppKit</sub>
+      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — {"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}<br/>
+      <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
     </td>
   </tr>
 </table>
@@ -34,7 +34,6 @@ I build small apps that solve real problems — usually for myself first, then s
 <p>
   <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff" alt="Swift" />
   <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff" alt="Tauri" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
