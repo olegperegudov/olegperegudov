@@ -12,11 +12,16 @@ for p in projects:
     tags = p["tags"]
     name = repo.split("/")[1].capitalize()
 
+    # Repo может быть приватным или удалённым — `gh api` тогда возвращает
+    # error-JSON на stdout с returncode != 0. Не путаем это с "нет описания".
     result = subprocess.run(
         ["gh", "api", f"repos/{repo}", "--jq", ".description // empty"],
         capture_output=True, text=True
     )
-    desc = result.stdout.strip() or "No description"
+    if result.returncode != 0:
+        desc = "No description"
+    else:
+        desc = result.stdout.strip() or "No description"
 
     rows.append(
         "  <tr>\n"

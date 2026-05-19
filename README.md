@@ -16,17 +16,6 @@ I build small apps that solve real problems — usually for myself first, then s
       <sub>Tauri · Rust · Groq Whisper API</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://github.com/olegperegudov/snatch">
-        <img src="https://raw.githubusercontent.com/olegperegudov/snatch/main/raccoon_master.png" width="48" />
-      </a>
-    </td>
-    <td>
-      <b><a href="https://github.com/olegperegudov/snatch">Snatch</a></b> — {"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}<br/>
-      <sub>Chrome Extension · Python · yt-dlp · FastAPI</sub>
-    </td>
-  </tr>
 </table>
 
 ### Tech I work with
