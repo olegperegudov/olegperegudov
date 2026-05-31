@@ -3,5 +3,10 @@
     "repo": "olegperegudov/ribbit",
     "icon": "src/frog.png",
     "tags": "Tauri · Rust · Groq Whisper API"
+  },
+  {
+    "repo": "olegperegudov/quill",
+    "icon": "src/quill.png",
+    "tags": "Tauri · Rust · LLM"
   }
 ]

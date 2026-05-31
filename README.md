@@ -16,6 +16,17 @@ I build small apps that solve real problems — usually for myself first, then s
       <sub>Tauri · Rust · Groq Whisper API</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://github.com/olegperegudov/quill">
+        <img src="https://raw.githubusercontent.com/olegperegudov/quill/main/src/quill.png" width="48" />
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/olegperegudov/quill">Quill</a></b> — Polish your writing in place — select text in any app, hit a hotkey, and an LLM fixes RU/EN spelling, punctuation and grammar without changing your meaning or tone.<br/>
+      <sub>Tauri · Rust · LLM</sub>
+    </td>
+  </tr>
 </table>
 
 ### Tech I work with
