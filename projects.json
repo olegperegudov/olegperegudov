@@ -8,7 +8,7 @@
   {
     "repo": "olegperegudov/copypaster",
     "name": "CopyPaster",
-    "icon": "icon.png",
+    "icon": "src/parrot.png",
     "tags": "Tauri · Rust · Clipboard history"
   },
   {

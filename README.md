@@ -19,7 +19,7 @@ I build small apps that solve real problems — usually for myself first, then s
   <tr>
     <td align="center" width="80">
       <a href="https://github.com/olegperegudov/copypaster">
-        <img src="https://raw.githubusercontent.com/olegperegudov/copypaster/main/icon.png" width="48" />
+        <img src="https://raw.githubusercontent.com/olegperegudov/copypaster/main/src/parrot.png" width="48" />
       </a>
     </td>
     <td>
