@@ -10,7 +10,7 @@ for p in projects:
     repo = p["repo"]
     icon = p["icon"]
     tags = p["tags"]
-    name = repo.split("/")[1].capitalize()
+    name = p["name"]  # своё написание: CopyPaster, а не Copypaster из имени репо
 
     # Repo может быть приватным или удалённым — `gh api` тогда возвращает
     # error-JSON на stdout с returncode != 0. Не путаем это с "нет описания".

@@ -1,11 +1,19 @@
 [
   {
     "repo": "olegperegudov/ribbit",
+    "name": "Ribbit",
     "icon": "src/frog.png",
     "tags": "Tauri · Rust · Groq Whisper API"
   },
   {
+    "repo": "olegperegudov/copypaster",
+    "name": "CopyPaster",
+    "icon": "icon.png",
+    "tags": "Tauri · Rust · Clipboard history"
+  },
+  {
     "repo": "olegperegudov/quill",
+    "name": "Quill",
     "icon": "src/quill.png",
     "tags": "Tauri · Rust · LLM"
   }
