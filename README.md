@@ -18,12 +18,12 @@ I build small apps that solve real problems — usually for myself first, then s
   </tr>
   <tr>
     <td align="center" width="80">
-      <a href="https://github.com/olegperegudov/copypaster">
-        <img src="https://raw.githubusercontent.com/olegperegudov/copypaster/main/src/parrot.png" width="48" />
+      <a href="https://github.com/olegperegudov/iago">
+        <img src="https://raw.githubusercontent.com/olegperegudov/iago/main/src/parrot.png" width="48" />
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/olegperegudov/copypaster">CopyPaster</a></b> — Clipboard history in your menu bar — hit a hotkey, pick from the last clips, and paste back into the window you were in. Screenshots land in the clipboard instantly.<br/>
+      <b><a href="https://github.com/olegperegudov/iago">Iago</a></b> — Clipboard history in your menu bar — hit a hotkey, pick from the last clips, and paste back into the window you were in. Screenshots land in the clipboard instantly.<br/>
       <sub>Tauri · Rust · Clipboard history</sub>
     </td>
   </tr>
