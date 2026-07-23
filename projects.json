@@ -6,8 +6,8 @@
     "tags": "Tauri · Rust · Groq Whisper API"
   },
   {
-    "repo": "olegperegudov/copypaster",
-    "name": "CopyPaster",
+    "repo": "olegperegudov/iago",
+    "name": "Iago",
     "icon": "src/parrot.png",
     "tags": "Tauri · Rust · Clipboard history"
   },
